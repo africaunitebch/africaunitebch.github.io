@@ -1,8 +1,9 @@
-A token to help emancipate both Africa and non Africa from mental slavery.
+AFU aims at preaching unification, human development/use case for other token in totality helping Bitcoin Cash to achieve its mission.
+The best way to unpack and explore this mission statement is by starting with the mission of Bitcoin Cash.
 
-Contract Address: `0x9FF450B42ed61A19713808C3a9021EBFD05c635a`
+Contract Address: `0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71`
 
-Symbol: **AFT**
+Symbol: **Martin₿**
 
 Total Supply: **10,000,000,000.00**
 
@@ -12,4 +13,4 @@ Twitter: [Working on it](https://twitter.com)
 
 Telegram: [Working on it](https://telegram.com)
 
-
+Whitepaper: [Gitbook Whitepaper](https://africa-unite-bch.gitbook.io/africa-unite/mission-and-goals)
